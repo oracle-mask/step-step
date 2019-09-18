@@ -33,18 +33,18 @@ h3 {
     font-weight: normal;   
 }
 h1{
-    font-size: 64;
-    line-height: 68;
+    font-size: 64px;
+    line-height: 68px;
     margin: 0;
 }
 h2{
-    font-size: 64px;
+    font-size: 46px;
     line-height: 50px;
     margin-bottom: 0;
 }
 h3 {
     font-size: 28px;
-    line-height: 32;
+    line-height: 32px;
 }
 
 a{
@@ -80,7 +80,7 @@ footer li {
     background: #eee;
     border-top: 4px solid #2B9FD6;
     padding: 1%;
-    min-height: 90%;
+    min-height: 90%px;
 }
 
 footer li:hover {
